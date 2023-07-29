@@ -31,7 +31,7 @@ Fully responsive design that can adapt to different screen sizes and devices.
 
 * Clone the repository to your local machine.
 * Navigate to the project directory and run npm install to install all dependencies.
-* Run npm start to start the application.
+* Run npm run dev to start the application.
 * Open http://localhost:5173 in your browser to view the website.
 
 
